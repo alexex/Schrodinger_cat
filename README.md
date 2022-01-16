@@ -35,7 +35,8 @@ Quello che succede è che quando apriamo la scatola facciamo collassare la funzi
 
 Ora però, proviamo a vedere la cosa da un altro punto di vista, entriamo anche noi a far parte dell’esperimento, a questo punto noi siamo il qubit q2:
 
-‘-------
+![g5](https://user-images.githubusercontent.com/25941322/149672143-39c92db5-d38b-4ed3-82cf-0cd7c58fa42a.gif)
+
 
 Quando apriamo la scatola e osserviamo il gatto non facciamo altro che entrare in entanglement con lui:
 
