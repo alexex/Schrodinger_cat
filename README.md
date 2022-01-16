@@ -55,4 +55,4 @@ L’altro in cui l’atomo è decaduto, il gatto è morto e noi siamo tristi.
 
 Però, ovviamente, non possiamo avere esperienza dei due mondi contemporaneamente, perché esistono 2 noi che non possono comunicare tra loro.
 
-Voi quale preferite: il collasso della funzione d’onda, o i molti mondi?
+Voi quale delle due interpretazioni preferite: il collasso della funzione d’onda, o i molti mondi?
