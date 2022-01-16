@@ -28,7 +28,8 @@ Dopo qualche minuto andiamo ad aprire la scatola per vedere se il gatto è vivo 
 
 O se è morto |1}:
 
-‘-------
+![g4](https://user-images.githubusercontent.com/25941322/149672123-58a7b493-4dab-44c1-8c8b-9984ba8914d2.gif)
+
 
 Quello che succede è che quando apriamo la scatola facciamo collassare la funzione d’onda, che è in uno stato di sovrapposizione (|00} + |11}), in uno dei due stati.
 
