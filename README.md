@@ -23,7 +23,8 @@ L’atomo radioattivo e il gatto (q0 e q1) sono in uno stato di sovrapposizione 
 
 Dopo qualche minuto andiamo ad aprire la scatola per vedere se il gatto è vivo o morto, facendo una misura del qubit q1 (il gatto) che ci dirà se è vivo |0}:
 
-‘-------
+![g3](https://user-images.githubusercontent.com/25941322/149671698-9b278ac6-4cd3-42e8-95cc-06eeda452b58.gif)
+
 
 O se è morto |1}:
 
