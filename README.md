@@ -5,7 +5,8 @@ Questo è un piccolo esperimento mentale che propone una diversa interpretazione
 Per farlo simulerò l’esperimento con il computer quantistico che IBM mette a disposizione sul web.
 Questo è il primo passo:
 
-‘-------
+![g1](https://user-images.githubusercontent.com/25941322/149671630-49533098-0a8a-4944-ae71-bbe7edcc1a03.gif)
+
 
 Assumiamo che il qubit q0 sia l’atomo radioattivo e il qubit q1 il gatto, quando q0 vale |0} l’atomo non è decaduto, quando vale |1} è decaduto, quando q1 vale |0} il gatto è vivo e quando vale |1} il povero gatto è morto.
 
@@ -13,7 +14,8 @@ Inserendo una porta di Hadamard sul qubit q0 lo mettiamo in uno stato di sovrapp
 
 A questo punto mettiamo il gatto dentro la scatola:
 
-‘-------
+![g2](https://user-images.githubusercontent.com/25941322/149671667-81b6c2ca-43f5-434e-b7d7-adeb411dd07b.gif)
+
 
 Per simulare l’introduzione del gatto ho messo una porta control_X che ha q0 come controllo e q1 come target, in questo modo, come si può vedere anche dal grafico delle probabilità, se l’atomo non decade q0 = |0} il gatto rimane vivo q1 = |0}, se l’atomo decade q0 = |1} il povero gatto muore q1 = |1}.
 
