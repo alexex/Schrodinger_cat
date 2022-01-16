@@ -40,7 +40,8 @@ Ora però, proviamo a vedere la cosa da un altro punto di vista, entriamo anche 
 
 Quando apriamo la scatola e osserviamo il gatto non facciamo altro che entrare in entanglement con lui:
 
-‘-------
+![g6](https://user-images.githubusercontent.com/25941322/149672203-53bf9cb3-351a-47a6-934d-a14ef31cd928.gif)
+
 
 E così quando q2 vale |0} noi siamo felici perché vediamo il gatto vivo, quando vale|1} siamo tristi perché vediamo il gatto morto.
 
