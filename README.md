@@ -1,4 +1,4 @@
-Il gatto di Schrodinger, un modo diverso di vedere le cose.
+# Il gatto di Schrodinger, un modo diverso di vedere le cose.
 
 Questo è un piccolo esperimento mentale che propone una diversa interpretazione del famoso paradosso del gatto di Schrodinger.
 
