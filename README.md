@@ -47,7 +47,7 @@ E così quando q2 vale |0} noi siamo felici perché vediamo il gatto vivo, quand
 
 Ma quale delle due condizioni osserveremo?
 
-Secondo un osservatore che fuori dalla nostra casa noi siamo in sovrapposizione e in entanglement con il gatto e l’atomo radioattivo (|000} + |111}).
+Secondo un osservatore che si trova fuori dalla nostra casa noi siamo in sovrapposizione e in entanglement con il gatto e l’atomo radioattivo (|000} + |111}).
 
 Questa non è altro che l’interpretazione a ‘molti mondi’, dove non c’è il collasso della funzione d’onda, ma ci sono due universi paralleli, uno in cui l’atomo non è decaduto, il gatto è vivo e noi siamo felici.
 
