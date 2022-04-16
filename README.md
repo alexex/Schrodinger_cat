@@ -10,7 +10,7 @@ Questo è il primo passo:
 
 Assumiamo che il qubit q0 sia l’atomo radioattivo e il qubit q1 il gatto, quando q0 vale |0} l’atomo non è decaduto, quando vale |1} è decaduto, quando q1 vale |0} il gatto è vivo e quando vale |1} il povero gatto è morto.
 
-Inserendo una porta di Hadamard sul qubit q0 mettiamo l'atomo radioattivo in uno stato di sovrapposizione quantistica (decaduto, non decaduto).
+Inserendo una porta di Hadamard sul qubit q0 poniamo l'atomo radioattivo in uno stato di sovrapposizione quantistica (decaduto, non decaduto).
 
 A questo punto mettiamo il gatto dentro la scatola:
 
