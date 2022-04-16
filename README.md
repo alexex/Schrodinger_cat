@@ -17,7 +17,7 @@ A questo punto mettiamo il gatto dentro la scatola:
 ![g2](https://user-images.githubusercontent.com/25941322/149671667-81b6c2ca-43f5-434e-b7d7-adeb411dd07b.gif)
 
 
-Per simulare l’introduzione del gatto ho messo una porta control_X che ha q0 come controllo e q1 come target, in questo modo, come si può vedere anche dal grafico delle probabilità, se l’atomo non decade q0 = |0} il gatto rimane vivo q1 = |0}, se l’atomo decade q0 = |1} il povero gatto muore q1 = |1}.
+Per simulare l’introduzione del gatto ho messo una porta Control_X che ha q0 come controllo e q1 come target, in questo modo, come si può vedere anche dal grafico delle probabilità, se l’atomo non decade q0 = |0} il gatto rimane vivo q1 = |0}, se l’atomo decade q0 = |1} il povero gatto muore q1 = |1}.
 
 L’atomo radioattivo e il gatto (q0 e q1) sono in uno stato di sovrapposizione e in entanglement tra loro (per noi al di fuori della scatola il gatto è vivo e morto contemporaneamente).
 
