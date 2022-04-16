@@ -52,6 +52,10 @@ Praticamente esistono 2 noi, uno felice con il gatto vivo e uno triste con il ga
 
 Questa è quella che viene chiamata l’interpretazione a ‘molti mondi’, dove non c’è il collasso della funzione d’onda, ma esistono più mondi 'paralleli'.
 
-Però, ovviamente, non possiamo avere esperienza dei due mondi contemporaneamente, perché esistono 2 noi che non possono comunicare tra loro.
+Ma non è possibile avere esperienza diretta di questo perchè i vari mondi non possono comunicare tra loro, per questo si dicono paralleli, perchè non si incontrano mai. 
 
-Voi quale delle due interpretazioni preferite: il collasso della funzione d’onda, o i molti mondi?
+A questo punto, quale delle due interpretazioni preferite?
+
+Il collasso della funzione d’onda?
+
+O i molti mondi?
